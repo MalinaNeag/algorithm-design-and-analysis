@@ -1,4 +1,4 @@
-# 🌳 Algorithm Design and Analysis Laboratory 
+# 🌳 Algorithm Design and Analysis - Laboratory Problems 
 
 This repository contains a collection of programming problems for the Algorithm Design and Analysis Laboratory at our faculty. These problems are designed to teach students about various algorithmic techniques and data structures and the majority of the implementations provided in this repository are written in Java.
 
